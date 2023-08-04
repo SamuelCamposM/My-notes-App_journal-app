@@ -1,6 +1,6 @@
 
 # My-notes-App_journal-app
-Applitacion for add, create, and delete notes using Firebase, materialui, redux, RTK and cloudinary
+Applitacion for add, create, and delete notes using Firebase, materialui, redux, RTK and cloudinary.
 
 # React + Vite
 
